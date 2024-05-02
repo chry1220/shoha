@@ -1,11 +1,7 @@
-# GPT-3 AI
-An introductory website for GPT-3 AI using modern web style and react
+# ShoeHa
+An introductory website for Fashion Shoe Shop Website using modern web style and react
 ## Preview
-___
-###  Get a live preview [Here](https://react-modern-ui.vercel.app)
-![IMG](https://github.com/SaadJamilAkhtar/Project-Images/blob/master/GPT-1.png?raw=true)
-## Technologies
-___
+
 1. React
 2. Html
 3. CSS
