@@ -1,0 +1,31 @@
+.like {
+    margin: 5rem 5rem;
+    font-family: var(--font-family);;
+
+}
+.like .container {
+    grid-gap: 4rem;
+    display: grid;
+    gap: 4rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.like .container .content {
+    background-color: #555;
+    /* background-color: var(--accent-color2); */
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 3rem;
+}
+
+.like .container .content .title {
+    color: #fff;
+    /* color: var(--accent-color1); */
+}
+.like .container .content .description {
+    color: #ccc;
+    /* color: var(--accent-color3); */
+    letter-spacing: .1rem;
+    line-height: 1.5rem;
+}
